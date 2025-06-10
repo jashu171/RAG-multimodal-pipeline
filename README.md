@@ -14,9 +14,6 @@
 git clone https://github.com/yourusername/siglip-multimodal-rag.git
 cd siglip-multimodal-rag
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Set up your Google AI API key
 export GOOGLE_AI_API_KEY="your-api-key-here"
 
