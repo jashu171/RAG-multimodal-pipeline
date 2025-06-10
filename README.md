@@ -18,7 +18,7 @@ cd siglip-multimodal-rag
 export GOOGLE_AI_API_KEY="your-api-key-here"
 
 # Run the notebook
-jupyter notebook https://colab.research.google.com/drive/1whjM8r29pKPxSFl3nYtnj4QdTsVJHhwX?usp=sharing
+jupyter notebook (https://colab.research.google.com/drive/1whjM8r29pKPxSFl3nYtnj4QdTsVJHhwX?usp=sharing)
 
 ## ✨ Features
 
@@ -277,12 +277,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Discord**: [Join our community](https://discord.gg/your-invite)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/siglip-multimodal-rag/issues)
-- 📖 **Docs**: [Full Documentation](https://yourusername.github.io/siglip-multimodal-rag)
-
----
+- 📧 **Email**: jashwanthboddupally@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/jashu171)
+- 📖 **Docs**: [Full Documentation](https://colab.research.google.com/drive/1whjM8r29pKPxSFl3nYtnj4QdTsVJHhwX?usp=sharing)
+- 
+---📞 **Cell**: (9010767269)
 
 <div align="center">
 
