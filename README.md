@@ -18,7 +18,7 @@ cd siglip-multimodal-rag
 export GOOGLE_AI_API_KEY="your-api-key-here"
 
 # Run the notebook
-jupyter notebook SigLIP_Multimodal_RAG_with_Feedback.ipynb
+jupyter notebook [SigLIP_Multimodal_RAG_with_Feedback.ipynb](https://colab.research.google.com/drive/1whjM8r29pKPxSFl3nYtnj4QdTsVJHhwX?usp=sharing)
 ```
 
 ## ✨ Features
